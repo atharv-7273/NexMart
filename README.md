@@ -4,6 +4,17 @@ A production-ready, full-stack E-Commerce web application built using the **MERN
 
 ---
 
+
+# 🛒 NexMart
+
+NexMart is an e-commerce project with a separate admin panel.
+
+## 🚀 Live Demo
+
+- **User Website:** [Visit NexMart](https://nex-mart-nmdhnp4lw-atharvkumkar7273-3655s-projects.vercel.app)
+- **Admin Panel:** [Visit NexMart Admin](https://nex-mart-64oy-rmswjxjri-atharvkumkar7273-3655s-projects.vercel.app)
+
+
 ## 🔗 Quick Links
 
 - **GitHub Repository**: [https://github.com/atharv-7273/NexMart](https://github.com/atharv-7273/NexMart)
