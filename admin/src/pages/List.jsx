@@ -3,7 +3,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 const List = ({ token }) => {
-  const backendUrl = "http://localhost:4000";
+  const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
 
   const [list, setList] = useState([]);
 

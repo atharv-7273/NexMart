@@ -1,0 +1,1035 @@
+[
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 100,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690233/Forever-Ecommerce/p_img1.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "bestseller": true,
+    "date": 1792687114822,
+    "_id": "6ada48aa42a2579f8b65a5d6",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 200,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690235/Forever-Ecommerce/p_img2_1.png",
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690236/Forever-Ecommerce/p_img2_2.png",
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690237/Forever-Ecommerce/p_img2_3.png",
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690238/Forever-Ecommerce/p_img2_4.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1792687179429,
+    "_id": "6ada48aa42a2579f8b65a5d7",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 220,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690239/Forever-Ecommerce/p_img3.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1792687240810,
+    "_id": "6ada48aa42a2579f8b65a5d8",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 110,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690241/Forever-Ecommerce/p_img4.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "XXL"
+    ],
+    "bestseller": true,
+    "date": 1792687302093,
+    "_id": "6ada48aa42a2579f8b65a5d9",
+    "__v": 0
+  },
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 130,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690242/Forever-Ecommerce/p_img5.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1792687363218,
+    "_id": "6ada48aa42a2579f8b65a5da",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 140,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690244/Forever-Ecommerce/p_img6.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "bestseller": true,
+    "date": 1792687425446,
+    "_id": "6ada48aa42a2579f8b65a5db",
+    "__v": 0
+  },
+  {
+    "name": "Men Tapered Fit Flat-Front Trousers",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 190,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690245/Forever-Ecommerce/p_img7.png"
+    ],
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687486657,
+    "_id": "6ada48aa42a2579f8b65a5dc",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 140,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690247/Forever-Ecommerce/p_img8.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687547821,
+    "_id": "6ada48aa42a2579f8b65a5dd",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 100,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690249/Forever-Ecommerce/p_img9.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687610282,
+    "_id": "6ada48aa42a2579f8b65a5de",
+    "__v": 0
+  },
+  {
+    "name": "Men Tapered Fit Flat-Front Trousers",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 110,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690250/Forever-Ecommerce/p_img10.png"
+    ],
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687672092,
+    "_id": "6ada48aa42a2579f8b65a5df",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 120,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690253/Forever-Ecommerce/p_img11.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "bestseller": false,
+    "date": 1792687734482,
+    "_id": "6ada48aa42a2579f8b65a5e0",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 150,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690254/Forever-Ecommerce/p_img12.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687795608,
+    "_id": "6ada48aa42a2579f8b65a5e1",
+    "__v": 0
+  },
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 130,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690256/Forever-Ecommerce/p_img13.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687857143,
+    "_id": "6ada48aa42a2579f8b65a5e2",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 160,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690257/Forever-Ecommerce/p_img14.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687918765,
+    "_id": "6ada48aa42a2579f8b65a5e3",
+    "__v": 0
+  },
+  {
+    "name": "Men Tapered Fit Flat-Front Trousers",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 140,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690259/Forever-Ecommerce/p_img15.png"
+    ],
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792687979920,
+    "_id": "6ada48aa42a2579f8b65a5e4",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 170,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690260/Forever-Ecommerce/p_img16.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688041035,
+    "_id": "6ada48aa42a2579f8b65a5e5",
+    "__v": 0
+  },
+  {
+    "name": "Men Tapered Fit Flat-Front Trousers",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 150,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690261/Forever-Ecommerce/p_img17.png"
+    ],
+    "category": "Men",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688102470,
+    "_id": "6ada48aa42a2579f8b65a5e6",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 180,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690262/Forever-Ecommerce/p_img18.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688163697,
+    "_id": "6ada48aa42a2579f8b65a5e7",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 160,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690264/Forever-Ecommerce/p_img19.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688224817,
+    "_id": "6ada48aa42a2579f8b65a5e8",
+    "__v": 0
+  },
+  {
+    "name": "Women Palazzo Pants with Waist Belt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 190,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690265/Forever-Ecommerce/p_img20.png"
+    ],
+    "category": "Women",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688286713,
+    "_id": "6ada48aa42a2579f8b65a5e9",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 170,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690267/Forever-Ecommerce/p_img21.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688348832,
+    "_id": "6ada48aa42a2579f8b65a5ea",
+    "__v": 0
+  },
+  {
+    "name": "Women Palazzo Pants with Waist Belt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 200,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690269/Forever-Ecommerce/p_img22.png"
+    ],
+    "category": "Women",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688409943,
+    "_id": "6ada48aa42a2579f8b65a5eb",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 180,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690270/Forever-Ecommerce/p_img23.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688471069,
+    "_id": "6ada48aa42a2579f8b65a5ec",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 210,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690271/Forever-Ecommerce/p_img24.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688533311,
+    "_id": "6ada48aa42a2579f8b65a5ed",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 190,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690274/Forever-Ecommerce/p_img25.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688595269,
+    "_id": "6ada48aa42a2579f8b65a5ee",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 220,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690275/Forever-Ecommerce/p_img26.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688656497,
+    "_id": "6ada48aa42a2579f8b65a5ef",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 200,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690277/Forever-Ecommerce/p_img27.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688717931,
+    "_id": "6ada48aa42a2579f8b65a5f0",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 230,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690278/Forever-Ecommerce/p_img28.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688779161,
+    "_id": "6ada48aa42a2579f8b65a5f1",
+    "__v": 0
+  },
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 210,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690279/Forever-Ecommerce/p_img29.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688840489,
+    "_id": "6ada48aa42a2579f8b65a5f2",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 240,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690282/Forever-Ecommerce/p_img30.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688903577,
+    "_id": "6ada48aa42a2579f8b65a5f3",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 220,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690289/Forever-Ecommerce/p_img31.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792688969871,
+    "_id": "6ada48aa42a2579f8b65a5f4",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 250,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690292/Forever-Ecommerce/p_img32.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689033316,
+    "_id": "6ada48aa42a2579f8b65a5f5",
+    "__v": 0
+  },
+  {
+    "name": "Girls Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 230,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690294/Forever-Ecommerce/p_img33.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689094915,
+    "_id": "6ada48aa42a2579f8b65a5f6",
+    "__v": 0
+  },
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 260,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690296/Forever-Ecommerce/p_img34.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689158721,
+    "_id": "6ada48aa42a2579f8b65a5f7",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 240,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690299/Forever-Ecommerce/p_img35.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689219959,
+    "_id": "6ada48aa42a2579f8b65a5f8",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 270,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690300/Forever-Ecommerce/p_img36.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689280985,
+    "_id": "6ada48aa42a2579f8b65a5f9",
+    "__v": 0
+  },
+  {
+    "name": "Women Round Neck Cotton Top",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 250,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690301/Forever-Ecommerce/p_img37.png"
+    ],
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689342060,
+    "_id": "6ada48aa42a2579f8b65a5fa",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 280,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690303/Forever-Ecommerce/p_img38.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689404515,
+    "_id": "6ada48aa42a2579f8b65a5fb",
+    "__v": 0
+  },
+  {
+    "name": "Men Printed Plain Cotton Shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 260,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690306/Forever-Ecommerce/p_img39.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689467236,
+    "_id": "6ada48aa42a2579f8b65a5fc",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 290,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690311/Forever-Ecommerce/p_img40.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689532425,
+    "_id": "6ada48aa42a2579f8b65a5fd",
+    "__v": 0
+  },
+  {
+    "name": "Men Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 270,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690312/Forever-Ecommerce/p_img41.png"
+    ],
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689593638,
+    "_id": "6ada48aa42a2579f8b65a5fe",
+    "__v": 0
+  },
+  {
+    "name": "Boy Round Neck Pure Cotton T-shirt",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 300,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690313/Forever-Ecommerce/p_img42.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Topwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689654624,
+    "_id": "6ada48aa42a2579f8b65a5ff",
+    "__v": 0
+  },
+  {
+    "name": "Kid Tapered Slim Fit Trouser",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 280,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690315/Forever-Ecommerce/p_img43.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689716645,
+    "_id": "6ada48aa42a2579f8b65a600",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 310,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690320/Forever-Ecommerce/p_img44.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689781704,
+    "_id": "6ada48aa42a2579f8b65a601",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 290,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690322/Forever-Ecommerce/p_img45.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689843311,
+    "_id": "6ada48aa42a2579f8b65a602",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 320,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690333/Forever-Ecommerce/p_img46.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689914588,
+    "_id": "6ada48aa42a2579f8b65a603",
+    "__v": 0
+  },
+  {
+    "name": "Kid Tapered Slim Fit Trouser",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 300,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690335/Forever-Ecommerce/p_img47.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792689976600,
+    "_id": "6ada48aa42a2579f8b65a604",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 330,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690338/Forever-Ecommerce/p_img48.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792690039062,
+    "_id": "6ada48aa42a2579f8b65a605",
+    "__v": 0
+  },
+  {
+    "name": "Kid Tapered Slim Fit Trouser",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 310,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690341/Forever-Ecommerce/p_img49.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792690101997,
+    "_id": "6ada48aa42a2579f8b65a606",
+    "__v": 0
+  },
+  {
+    "name": "Kid Tapered Slim Fit Trouser",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 340,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690342/Forever-Ecommerce/p_img50.png"
+    ],
+    "category": "Kids",
+    "subCategory": "Bottomwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792690163363,
+    "_id": "6ada48aa42a2579f8b65a607",
+    "__v": 0
+  },
+  {
+    "name": "Women Zip-Front Relaxed Fit Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 320,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690344/Forever-Ecommerce/p_img51.png"
+    ],
+    "category": "Women",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792690225218,
+    "_id": "6ada48aa42a2579f8b65a608",
+    "__v": 0
+  },
+  {
+    "name": "Men Slim Fit Relaxed Denim Jacket",
+    "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    "price": 350,
+    "image": [
+      "https://res.cloudinary.com/dau5kkvuh/image/upload/v1792690345/Forever-Ecommerce/p_img52.png"
+    ],
+    "category": "Men",
+    "subCategory": "Winterwear",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "bestseller": false,
+    "date": 1792690286723,
+    "_id": "6ada48aa42a2579f8b65a609",
+    "__v": 0
+  }
+]

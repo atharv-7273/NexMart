@@ -4,7 +4,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 
 const Add = () => {
-  const backendUrl = "http://localhost:4000";
+  const backendUrl = import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
   const token = localStorage.getItem("token");
 
   const [image1, setImage1] = useState(false);

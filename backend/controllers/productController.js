@@ -1,5 +1,12 @@
-import {v2 as cloudinary} from "cloudinary"
-import productModel from "../models/productModel.js"
+import { v2 as cloudinary } from "cloudinary";
+import productModel from "../models/productModel.js";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const backupDataPath = path.join(__dirname, "../data/products.json");
 
 // function for add products
 
@@ -54,27 +61,35 @@ let imagesUrl = await Promise.all(
 
 
 
-//Function foe list products
+// Function for list products
 const listProducts = async (req, res) => {
-
   try {
+    let products = await productModel.find({});
 
-    const products = await productModel.find({});
+    // If database has 0 products and backup JSON exists, auto-populate
+    if (products.length === 0 && fs.existsSync(backupDataPath)) {
+      try {
+        const raw = fs.readFileSync(backupDataPath, "utf8");
+        const backupProducts = JSON.parse(raw);
+        if (Array.isArray(backupProducts) && backupProducts.length > 0) {
+          const sanitized = backupProducts.map(({ _id, __v, ...rest }) => rest);
+          await productModel.insertMany(sanitized);
+          products = await productModel.find({});
+        }
+      } catch (err) {
+        console.log("Auto-seed error:", err.message);
+      }
+    }
 
     res.json({ success: true, products });
-
   } catch (error) {
-
     console.log(error);
-
     res.json({
       success: false,
-      message: error.message
+      message: error.message,
     });
-
   }
-
-}
+};
 
 //Function foe removing products
 const removeProducts = async (req, res) => {
