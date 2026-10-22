@@ -45,7 +45,16 @@ const ShopContextProvider = (props) => {
       );
 
       if (response.data.success) {
-        setCartItems(response.data.cartData);
+        setCartItems(response.data.cartData || {});
+      } else if (
+        response.data.message?.toLowerCase().includes("not authorized") ||
+        response.data.message?.toLowerCase().includes("session") ||
+        response.data.message?.toLowerCase().includes("invalid") ||
+        response.data.message?.toLowerCase().includes("token")
+      ) {
+        localStorage.removeItem("token");
+        setToken("");
+        setCartItems({});
       }
     } catch (error) {
       console.log(error);

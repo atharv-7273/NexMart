@@ -45,6 +45,13 @@ const Orders = () => {
         });
 
         setOrderData(allOrdersItem.reverse());
+      } else if (
+        response.data.message?.toLowerCase().includes("session") ||
+        response.data.message?.toLowerCase().includes("authorized") ||
+        response.data.message?.toLowerCase().includes("token")
+      ) {
+        localStorage.removeItem("token");
+        setOrderData([]);
       }
     } catch (error) {
       console.log(error);

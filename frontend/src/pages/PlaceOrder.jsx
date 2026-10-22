@@ -25,6 +25,7 @@ const PlaceOrder = () => {
     navigate,
     backendUrl,
     token,
+    setToken,
     cartItems,
     setCartItems,
     products,
@@ -45,6 +46,12 @@ const PlaceOrder = () => {
   const onSubmitHandler = async (event) => {
     event.preventDefault();
 
+    if (!token) {
+      toast.error("Please login to place an order");
+      navigate("/login");
+      return;
+    }
+
     try {
       let orderItems = [];
 
@@ -57,31 +64,48 @@ const PlaceOrder = () => {
 
             if (itemInfo) {
               itemInfo.size = item;
-
               itemInfo.quantity = cartItems[items][item];
-
               orderItems.push(itemInfo);
             }
           }
         }
       }
 
+      if (orderItems.length === 0) {
+        toast.error("Your cart is empty");
+        navigate("/collection");
+        return;
+      }
+
       let orderData = {
         address: formData,
-
         items: orderItems,
-
         amount: getCartAmount() + delivery_fee,
       };
 
-      // ================= COD =================
+      const handleAuthError = (msg) => {
+        const lower = msg?.toLowerCase() || "";
+        if (
+          lower.includes("authorized") ||
+          lower.includes("session") ||
+          lower.includes("token") ||
+          lower.includes("signature") ||
+          lower.includes("login")
+        ) {
+          localStorage.removeItem("token");
+          setToken("");
+          toast.error("Your session has expired or is invalid. Please log in again.");
+          navigate("/login");
+          return true;
+        }
+        return false;
+      };
 
+      // ================= COD =================
       if (method === "cod") {
         const response = await axios.post(
           backendUrl + "/api/order/place",
-
           orderData,
-
           {
             headers: { token },
           },
@@ -89,12 +113,12 @@ const PlaceOrder = () => {
 
         if (response.data.success) {
           setCartItems({});
-
-          toast.success("Order Placed");
-
+          toast.success("Order Placed Successfully!");
           navigate("/orders");
         } else {
-          toast.error(response.data.message);
+          if (!handleAuthError(response.data.message)) {
+            toast.error(response.data.message);
+          }
         }
       }
 
@@ -102,9 +126,7 @@ const PlaceOrder = () => {
       else if (method === "stripe") {
         const response = await axios.post(
           backendUrl + "/api/order/stripe",
-
           orderData,
-
           {
             headers: { token },
           },
@@ -113,16 +135,16 @@ const PlaceOrder = () => {
         if (response.data.success) {
           window.location.replace(response.data.session_url);
         } else {
-          toast.error(response.data.message);
+          if (!handleAuthError(response.data.message)) {
+            toast.error(response.data.message);
+          }
         }
       }
       // ================= RAZORPAY =================
       else if (method === "razorpay") {
         const response = await axios.post(
           backendUrl + "/api/order/razorpay",
-
           orderData,
-
           {
             headers: { token },
           },
@@ -131,40 +153,31 @@ const PlaceOrder = () => {
         if (response.data.success) {
           const options = {
             key: import.meta.env.VITE_RAZORPAY_KEY_ID,
-
             amount: response.data.order.amount,
-
             currency: response.data.order.currency,
-
-            name: "Forever Store",
-
+            name: "NexMart Store",
             description: "Order Payment",
-
             order_id: response.data.order.id,
-
             handler: async function () {
               toast.success("Payment Successful");
-
               setCartItems({});
-
               navigate("/orders");
             },
-
             theme: {
               color: "#000000",
             },
           };
 
           const razorpay = new window.Razorpay(options);
-
           razorpay.open();
         } else {
-          toast.error(response.data.message);
+          if (!handleAuthError(response.data.message)) {
+            toast.error(response.data.message);
+          }
         }
       }
     } catch (error) {
       console.log(error);
-
       toast.error(error.message);
     }
   };
